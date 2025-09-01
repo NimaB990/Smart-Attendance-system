@@ -1,6 +1,6 @@
 # 🎓 Smart Attendance System  
 
-An intelligent attendance management system that combines **RFID authentication** with **AI-powered face recognition** using Python and OpenCV. The system securely logs attendance in a **cloud database**, prevents proxy attendance, and captures unauthorized attempts.  
+An intelligent attendance management system that combines **RFID authentication** with **face recognition** using Python and OpenCV. The system securely logs attendance in a **cloud database**, prevents proxy attendance, and captures unauthorized attempts.  
 
 ---
 
